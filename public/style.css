@@ -1,0 +1,14 @@
+.input-pad {
+    margin: 0 auto;
+    width: 30%;
+    display: inline-block;
+}
+
+#title {
+    padding: 10px;
+    display: inline-block;
+}
+
+.center-class {
+    text-align: center;
+}
